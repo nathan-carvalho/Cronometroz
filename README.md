@@ -2,7 +2,9 @@
 
 Cronômetro Web Moderno responsivo.
 
-Logo logo o projeto estará disponivel como app (mobile) e desktop(software)
+Logo logo o projeto estará disponivel como app (mobile) e desktop(software).
+
+**Link do projeto:**https://nathan-carvalho.github.io/Cronometroz/
 
 
 ## Nathan Carvalho
