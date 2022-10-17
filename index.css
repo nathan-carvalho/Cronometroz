@@ -134,7 +134,7 @@ footer{
     }
 
     .caixa4_btns button{
-        padding: 0.8rem 1.8rem;
+        padding: 0.5rem 1rem;
     }
     .caixa3_crono{
         width: 15em;
@@ -143,8 +143,8 @@ footer{
     .caixa3_crono h1{
         font-size: 320%;
     }
-    .caixa2{
-    margin-top: 10rem;
+  /*   .caixa2{
+    margin-top: 6rem;
 
-    }
+    } */
 }
